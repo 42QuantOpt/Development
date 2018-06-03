@@ -1,0 +1,51 @@
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\bin\Debug\Interop.XA_DATASETLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Interop.XA_DATASETLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Interop.XA_SESSIONLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Exercise_1.csproj.ResolveComReference.cache
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Exercise_1.Form1.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Exercise_1.Properties.Resources.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Exercise_1.exe
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Exercise_1.pdb
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1\Exercise_1\obj\x86\Debug\Exercise_1.Login.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Interop.XA_DATASETLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Interop.XA_SESSIONLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.csproj.ResolveComReference.cache
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.exe
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.pdb
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.Form1.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.Login.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.Properties.Resources.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\bin\Debug\Exercise_1.exe
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\bin\Debug\Interop.XA_DATASETLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.주식계좌현황.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.선물계좌현황.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Interop.XA_DATASETLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Interop.XA_SESSIONLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.csproj.ResolveComReference.cache
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.exe
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.pdb
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\bin\Debug\Exercise_1.exe
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\bin\Debug\Interop.XA_DATASETLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.Form1.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.Login.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.Properties.Resources.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.선물계좌현황.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.주식계좌현황.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.선옵주문.resources
+C:\Users\KKH\Desktop\Etrade강의\xingAPI C# 프로그래밍 실습\Exercise_1_20131126 - 복사본\Exercise_1\obj\x86\Debug\Exercise_1.주식주문.resources
